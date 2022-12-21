@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@700&display=swap');
+
+.tareas{
+    font-family: 'Martian Mono', monospace;
+    font-weight: bolder;
+}
+
+.separador{
+    background-color:antiquewhite;
+    width: 351px;
+}
